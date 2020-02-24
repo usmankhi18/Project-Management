@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project Management</string>
+    <string name="project_management_system">Project Management System</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Enter Email Address</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="next">Next</string>
+    <string name="username">UserName</string>
+    <string name="insertactivity">Insert Activity</string>
+    <string name="submit">Submit</string>
+    <string name="hintnextactivity">Next Action</string>
+    <string name="narration">Narration</string>
+</resources>
